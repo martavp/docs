@@ -1,6 +1,6 @@
 # DTU Sophia hardware
 
-## Compute
+## Compute nodes
 
 The Sophia HPC cluster consists of 516 computational nodes of which 484 are 128 GB RAM nodes and 32 are 256 GB RAM nodes. Each node is a powerful x86-64 computer, equipped with 32 physical cores (2 x sixteen-core AMD EPYC 7351).
 
