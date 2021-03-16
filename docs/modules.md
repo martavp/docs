@@ -9,12 +9,10 @@ and load a particular module, e.g.
 ml OpenMPI/3.1.1-GCC-7.3.0-2.30
 ```
 to use [OpenMPI](https://www.open-mpi.org/) version 3.1.1 compiled with [GNU Compiler Collection](https://gcc.gnu.org/) version 7.3.
-
-To get an overview of modules into your environment do
+To get an overview of modules currently loaded in the shell environment do
 ```md
 ml
 ```
-
 Unload a particular module with `ml unload <module>`, e.g.
 ```md
 ml unload GCC/7.3.0-2.30
