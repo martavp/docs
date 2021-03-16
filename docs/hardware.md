@@ -18,7 +18,7 @@ The parameters are summarized in the following table:
 | Local disk drive                            | no                                          |
 | Compute network / Topology                  | InfiniBand EDR / Fat tree                   |
 | **In total**                                |                                             |
-| Total theoretical peak performance  (Rpeak) | ~384 TFLOPS *(516 nodes &times 32 cores &times 2.9GHz &times 8 FLOP/cycle)*                                  |
+| Total theoretical peak performance  (Rpeak) | ~384 TFLOPS *(516 nodes x 32 cores x 2.9GHz x 8 FLOP/cycle)*                                  |
 | Total amount of RAM                         | 69 TB                                       |
 
 
