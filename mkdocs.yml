@@ -1,0 +1,22 @@
+site_name: DTU Sophia
+site_author: 'Lars Melwyn Jensen, Frank Schilder, Martin Rosgaard'
+site_url: https://dtu-sophia.github.io/docs
+
+repo_name: dtu-sophia/docs
+repo_url: https://github.com/dtu-sophia/docs
+
+theme: material
+docs_dir: docs/
+
+nav:
+    - HPC resources:
+      - User account: account.md
+      - How to access: access.md
+      - Compute hardware: hardware.md
+    - Computing:
+      - Job scheduler: scheduler.md
+      - Software modules: modules.md
+    - Data:
+      - Cluster systems: subsystems.md
+      - Generating: scratch.md
+      - Storing: permanent.md
