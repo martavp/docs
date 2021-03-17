@@ -1,15 +1,16 @@
 # DTU Sophia hardware
 
-## Compute
+## Compute nodes
 
 The Sophia HPC cluster consists of 516 computational nodes of which 484 are 128 GB RAM nodes and 32 are 256 GB RAM nodes. Each node is a powerful x86-64 computer, equipped with 32 physical cores (2 x sixteen-core AMD EPYC 7351).
 
 The parameters are summarized in the following table:
+
 | **Specs**                              |                                             |
 | ------------------------------------------- | ------------------------------------------- |
 | Primary purpose                             | High Performance Computing                  |
 | Architecture of compute nodes               | x86-64                                      |
-| Operating system                            | CentOS 7 Linux                            |
+| Operating system                            | CentOS 7 GNU/Linux                            |
 | Compute nodes in total                      | 516                                            |
 | Processor                                   | 2 &times AMD EPYC 7351, 2.9 GHz, 16 cores        |
 | RAM (484 nodes)                             | 128 GB, 4 GB per core, DDR4@2666 MHz         |
@@ -17,7 +18,7 @@ The parameters are summarized in the following table:
 | Local disk drive                            | no                                          |
 | Compute network / Topology                  | InfiniBand EDR / Fat tree                   |
 | **In total**                                |                                             |
-| Total theoretical peak performance  (Rpeak) | ~384 TFLOPS *(516 nodes &times 32 cores &times 2.9GHz &times 8 FLOP/cycle)*                                  |
+| Total theoretical peak performance  (Rpeak) | ~384 TFLOPS *(516 nodes x 32 cores x 2.9GHz x 8 FLOP/cycle)*                                  |
 | Total amount of RAM                         | 69 TB                                       |
 
 
