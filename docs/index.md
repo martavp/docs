@@ -20,7 +20,7 @@ Optimal use of the HPC resources available requires responsible and conscientiou
 individual user. 
 
   1. Read these docs pages! 
-  2. When in doubt, ask! Write the address at the bottom right.
+  2. When in doubt, ask! Write the address at the bottom left.
   3. The HPC resources can be used for development and testing of applications; please ensure that
 reserved HPC resources are utilised and not standing idle. E.g. do not reserve multiple nodes for
 code that only utilise resources on a single node.
