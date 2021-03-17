@@ -14,7 +14,7 @@ theme:
 
 docs_dir: docs/
 
-copyright: ait-hpc-support <at> dtu <dot> dk
+copyright: ait-hpc-support :at: dtu :dot: dk
 
 nav:
     - HPC resources:
