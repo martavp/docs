@@ -5,7 +5,11 @@ site_url: https://dtu-sophia.github.io/docs
 repo_name: dtu-sophia/docs
 repo_url: https://github.com/dtu-sophia/docs
 
-theme: material
+theme: 
+  name: material
+  logo: images/dtu_logo.png
+  favicon: images/dtu_favicon.png
+
 docs_dir: docs/
 
 nav:
