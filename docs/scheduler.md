@@ -11,7 +11,7 @@ specification of a job *queue*, or *partition* in Slurm lingo, which can be
 done either on the commandline as argument to the `srun` command or via a
 batch job script that is submitted to the scheduler with the `sbatch` command.
 
-Sophia compute nodes are organised in the following job queues/partitions:
+Sophia [compute nodes](hardware.md#compute-nodes) are organised in the following job queues/partitions:
 
 | Name  | Description |
 | ----- | ----------- |
