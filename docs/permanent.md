@@ -62,7 +62,7 @@ These characteristics can result in an counter-intuitive experience when transit
 
 
 
-#### Snapshots
+### Snapshots
 
 In case of accidental deletion, corruption or modification of data by malware, previous versions are available in ceph snapshots. To access a snapshot of a file, change to the file's directory and execute `cd .snap`. Note that ".snap" is a meta-directory, not a real directory. Therefore, tab-completion and the like will not work and one needs to type it explicitly as stated here. Inside the snapshot directory are folders with current snapshots, for example,
 
@@ -83,7 +83,7 @@ To access snapshots of a specific date, cd into the corresponding folder and bro
     We cannot guarantee snapshots to be present in situations where excessive amounts of temporary data have been captured in snapshots. We aim, however, to have at least the last two days available.
 
 
-#### Advanced topics
+### Advanced topics
 
 - [LazyIO provided by libcephfs](https://docs.ceph.com/docs/master/cephfs/lazyio/)
 - [Ceph fs and POSIX](https://docs.ceph.com/docs/master/cephfs/posix/).
