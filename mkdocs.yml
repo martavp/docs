@@ -14,7 +14,7 @@ theme:
 
 docs_dir: docs/
 
-copyright: ![](images/dtu_logo.png)
+copyright: <img src="images/dtu_logo.png" alt="">
 
 nav:
     - HPC resources:
