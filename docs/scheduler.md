@@ -49,12 +49,12 @@ prepared;
 !!! info "Slurm job script example"
     `[<username>@sophia1 ~]$ cat slurm.job`
 
-              #!/bin/bash
-              #SBATCH --time=2:00:00
-              #SBATCH --partition=workq
-              #SBATCH --nodes=1
-              #SBATCH --ntasks-per-node=1
-              echo "hello, Sophia!"
+        #!/bin/bash
+        #SBATCH --time=2:00:00
+        #SBATCH --partition=workq
+        #SBATCH --nodes=1
+        #SBATCH --ntasks-per-node=1
+        echo "hello, Sophia!"
 
 
 which can then be submitted with the `sbatch` command,
