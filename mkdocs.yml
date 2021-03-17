@@ -14,6 +14,10 @@ theme:
 
 docs_dir: docs/
 
+extra:
+  social:
+    - icon: images/dtu_logo.png
+
 nav:
     - HPC resources:
       - User account: account.md
