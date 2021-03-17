@@ -12,6 +12,9 @@ theme:
   logo: images/dtu_logo.png
   favicon: images/dtu_favicon.png
 
+markdown_extensions:
+  - admonition
+
 docs_dir: docs/
 
 copyright: ait-hpc-support =at= dtu =dot= dk
