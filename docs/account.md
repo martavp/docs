@@ -8,7 +8,7 @@ In order to access HPC resources a user account is necessary.
 Students must have a DTU staff member (e.g. supervisor) forward user account 
 requests on their behalf in order to access to DTU Sophia resources.
 
-DTU staff must request access by written request to the address at the bottom left.
+DTU staff must direct account creation requests to the address at the bottom left.
 
 
 ## DeiC grant holder
