@@ -31,3 +31,4 @@ nav:
       - Cluster systems: subsystems.md
       - Generating: scratch.md
       - Storing: permanent.md
+      - Moving: transfer.md
