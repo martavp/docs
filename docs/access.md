@@ -17,17 +17,17 @@ connection.
 | Tool | URL |
 | ---- | --- |
 | ssh client; e.g. [OpenSSH](https://www.openssh.com/) | ssh.risoe.dk |
-| vpn client; e.g. [OpenConnect](https://www.infradead.org/openconnect/) (GNU/Linux) or [AnyConnect](https://www.cisco.com/c/en/us/support/docs/smb/routers/cisco-rv-series-small-business-routers/smb5686-install-cisco-anyconnect-secure-mobility-client-on-a-windows.html) (Windows) |  securevpn.ait.dtu.dk |
+| vpn client; e.g. [OpenConnect](https://www.infradead.org/openconnect/) (Linux) or [AnyConnect](https://www.cisco.com/c/en/us/support/docs/smb/routers/cisco-rv-series-small-business-routers/smb5686-install-cisco-anyconnect-secure-mobility-client-on-a-windows.html) (Windows) |  securevpn.ait.dtu.dk |
 
 
 ### DeiC grant holder
 
 Log on the [secureremote](https://secureremote.dtu.dk/) portal and choose **DeiC Sophia Desktop** 
-- this will open a Citrix session with GNU/Linux CentOS 7.
+- this will open a Citrix session with Linux CentOS 7.
 
 ## Accessing Sophia login node
 
-### GNU/Linux
+### Linux
 
 Open a terminal and access Sophia from the commandline;
 ```
@@ -38,4 +38,4 @@ ssh <username>@sophia.dtu.dk
 
 The [MobaXterm](https://mobaxterm.mobatek.net/) Windows application offers a range of features,
 including e.g. default graphics forwarding. Use the same command as for 
-GNU/Linux.
+Linux.

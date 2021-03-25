@@ -10,9 +10,9 @@ The parameters are summarized in the following table:
 | ------------------------------------------- | ------------------------------------------- |
 | Primary purpose                             | High Performance Computing                  |
 | Architecture of compute nodes               | x86-64                                      |
-| Operating system                            | CentOS 7 GNU/Linux                            |
+| Operating system                            | CentOS 7 Linux                            |
 | Compute nodes in total                      | 516                                            |
-| Processor                                   | 2 &times AMD EPYC 7351, 2.9 GHz, 16 cores        |
+| Processor                                   | 2 x AMD EPYC 7351, 2.9 GHz, 16 cores        |
 | RAM (484 nodes)                             | 128 GB, 4 GB per core, DDR4@2666 MHz         |
 | RAM (32 nodes)                              | 256 GB, 8 GB per core, DDR4@2666 MHz         |
 | Local disk drive                            | no                                          |

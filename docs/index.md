@@ -3,7 +3,7 @@
 This website is a resource with the technical details for users to make effective use of 
 DTU Sophia computing and storage resources.
 
-The Sophia HPC cluster runs the GNU/Linux CentOS operating system and the cluster
+The Sophia HPC cluster runs the Linux CentOS operating system and the cluster
 installation is based on the [OpenHPC](https://openhpc.community) framework.
 
 The default shell is [bash](https://www.gnu.org/software/bash/) and
