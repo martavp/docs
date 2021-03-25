@@ -1,6 +1,6 @@
 # Data transfer
 
-...
+In this section methods for moving data to and from Sophia are described.
 
 ## Using sshfs
 
