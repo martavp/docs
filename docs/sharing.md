@@ -1,4 +1,4 @@
-# Ownership of files
+# Private and shared
 
 On the Sophia storage system there are two types of directories;
 subdirectories for <u style="color:blue">**single-user data**</u> are under
