@@ -13,14 +13,18 @@ batch job script that is submitted to the scheduler with the `sbatch` command.
 
 Sophia [compute nodes](hardware.md#compute-nodes) are organised in the following job queues/partitions:
 
-| Name  | Description |
+| Name  | Open for all Sophia users |
 | ----- | ----------- |
-| workq | General, open for all Sophia users |
-| fatq  | Double random access memory capacity |
+| workq | AMD EPYC 7351 (1st gen, 32 cores), 128 GB memory |
+| romeq | AMD EPYC 7302 (2nd gen, 32 cores), 128 GB memory |
+| fatq  | AMD EPYC 7351, 256 GB memory |
 | gpuq  | 1 Nvidia Quadro P4000 GPU per node |
 | v100  | 1 Nvidia Tesla V100 per node |
-| windq | Exclusive access for [DTU Wind Energy](https://windenergy.dtu.dk/english) staff |
-| windfatq | Double random access memory capacity, exclusive access for [DTU Wind Energy](https://windenergy.dtu.dk/english) staff |
+
+| Name  | Exclusive access for [DTU Wind Energy](https://windenergy.dtu.dk/english) staff |
+| ----- | ------------ |
+| windq | AMD EPYC 7351 (1st gen, 32 cores), 128 GB memory |
+| windfatq | AMD EPYC 7351 (1st gen, 32 cores), 256 GB memory |
 
 Use the `sinfo` command to list information about the Slurm partitions configured and `squeue` 
 to list compute jobs on queue.
