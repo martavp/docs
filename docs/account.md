@@ -18,5 +18,5 @@ forwarding - to the address at the bottom left - correspondence with the relevan
 creation approver.
 
 Until more elaborate guidelines are finalised, 
-[Dan Ariel Søndergaard](https://international.au.dk/en/about/contact/staffdir)
+[Dan Ariel Søndergaard](das@genome.au.dk)
 is acting approver for DTU Sophia resource requests from employees at other Danish universities.
