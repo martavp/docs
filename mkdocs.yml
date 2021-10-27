@@ -32,4 +32,4 @@ nav:
       - Generating: scratch.md
       - Storing: permanent.md
       - Moving: transfer.md
-      - Sharing: sharing.md
+#      - Sharing: sharing.md
