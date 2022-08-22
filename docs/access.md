@@ -14,10 +14,10 @@ Use your laptop's ssh client from a terminal or create a
 [virtual private network](https://en.wikipedia.org/wiki/Virtual_private_network) (VPN)
 connection.
 
-| Tool | URL |
-| ---- | --- |
-| ssh client; e.g. [OpenSSH](https://www.openssh.com/) | ssh.risoe.dk |
-| vpn client; e.g. [OpenConnect](https://www.infradead.org/openconnect/) (Linux) or [AnyConnect](https://www.cisco.com/c/en/us/support/docs/smb/routers/cisco-rv-series-small-business-routers/smb5686-install-cisco-anyconnect-secure-mobility-client-on-a-windows.html) (Windows) |  securevpn.ait.dtu.dk |
+| Tool | URL | Example |
+| ---- | --- | ------- |
+| ssh client; e.g. [OpenSSH](https://www.openssh.com/) | ssh.risoe.dk | `ssh my-dtu-username@ssh.risoe.dk` |
+| vpn client; e.g. [OpenConnect](https://www.infradead.org/openconnect/) (Linux) or [AnyConnect](https://www.cisco.com/c/en/us/support/docs/smb/routers/cisco-rv-series-small-business-routers/smb5686-install-cisco-anyconnect-secure-mobility-client-on-a-windows.html) (Windows) |  vpn.dtu.dk | `openconnect --os=win vpn.dtu.dk` |
 
 
 ### DeiC grant holder
