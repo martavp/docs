@@ -10,6 +10,12 @@ The default shell is [bash](https://www.gnu.org/software/bash/) and
 users are [encouraged](https://devhints.io/bash) to use bash 
 since Sophia's compute job scheduler primarily supports this shell.
 
+## Acknowledgment of use
+
+Please use DOI **10.57940/FAFC-6M81** in your publication; select citation format [here https://doi.datacite.org/dois/10.57940%2Ffafc-6m81](https://doi.datacite.org/dois/10.57940%2Ffafc-6m81), and e.g. use the following text as appropriate:
+
+*The authors gratefully acknowledge the computational and data resources provided on the Sophia HPC Cluster at the Technical University of Denmark, DOI: 10.57940/FAFC-6M81.*
+
 ## Guidelines for use
 
 Through constructive dialogue we wish on one hand to ensure continuity and progress
