@@ -1,7 +1,6 @@
-# Sophia HPC Cluster
+# Sophia HPC cluster
 
-This website is a resource with the technical details for users to make effective use of 
-DTU Sophia computing and storage resources.
+This website is a resource with technical details for users to make efficient use of the computing and storage resources of the Technical University of Denmark's high performance computing cluster *Sophia*.
 
 The Sophia HPC cluster runs the Linux CentOS operating system and the cluster
 installation is based on the [OpenHPC](https://openhpc.community) framework.
