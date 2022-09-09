@@ -8,7 +8,7 @@ repo_url: https://github.com/dtu-sophia/docs
 theme: 
   name: material
   palette:
-    primary: red
+    primary: white
   logo: images/dtu_logo.png
   favicon: images/dtu_favicon.png
 
