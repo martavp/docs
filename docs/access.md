@@ -22,7 +22,7 @@ connection.
 
 ### DeiC grant holder
 
-Log on the [secureremote](https://secureremote.dtu.dk/) portal and choose **DeiC Sophia Desktop** 
+Log on the [remote](https://remote.dtu.dk/) portal and choose **DeiC Sophia Desktop** 
 - this will open a Citrix session with Linux CentOS 7.
 
 ## Accessing Sophia login node
