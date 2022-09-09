@@ -1,4 +1,4 @@
-# DTU Sophia HPC Cluster
+# Sophia HPC Cluster
 
 This website is a resource with the technical details for users to make effective use of 
 DTU Sophia computing and storage resources.
