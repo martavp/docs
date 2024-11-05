@@ -16,7 +16,7 @@ Sophia [compute nodes](hardware.md#compute-nodes) are organised in the following
 | Name  | Open for all Sophia users |
 | ----- | ----------- |
 | workq | AMD EPYC 7351 (1st gen, 32 cores), 128 GB memory |
-| romeq | AMD EPYC 7302 (2nd gen, 32 cores), 128 GB memory |
+| rome | AMD EPYC 7302 (2nd gen, 32 cores), 128 GB memory |
 | fatq  | AMD EPYC 7351, 256 GB memory |
 | gpuq  | 1 Nvidia Quadro P4000 GPU per node |
 | v100  | 1 Nvidia Tesla V100 per node |
